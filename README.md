@@ -14,6 +14,6 @@
 
 **5.** Give like or not to the recipe to save it in the data search engine.
 
-This is posible thanks to data fetched from https://food2fork.com/about/api.
+This is posible thanks to data fetched from [Food2Fork API](https://food2fork.com/about/api). 
 
-This project has been design by **Jonas Schmedtmann**. Coded & modified by me.
+This project has been design by **Jonas Schmedtmann**. Coded & modified by me(**Gabriel Garcia**).
