@@ -1,7 +1,7 @@
 # Forkyfy
 ### A website to search recipes for you cooking needs.
 #### In order to build this website I used HTML5 + CSS + Modern JavaScript(ES6 & WebPack).
-***
+
 ##### The functions that you can do with this app are:
 
 **1.** Look for any food to get the recipes.
